@@ -2,7 +2,7 @@ name: KillMessage
 version: 1.0.0
 main: com.example.killmessage.KillMessage
 api-version: '1.21'
-author: YourName
+author: alegbebra
 description: Kill messages for boxpvp
 
 commands:
