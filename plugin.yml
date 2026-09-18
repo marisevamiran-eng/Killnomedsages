@@ -2,7 +2,7 @@ name: KillMessage
 version: 1.0.0
 main: com.example.killmessage.KillMessage
 api-version: '1.21'
-author: alegbebra
+author: YourName
 description: Kill messages for boxpvp
 
 commands:
@@ -10,3 +10,7 @@ commands:
     description: Reload config
     usage: /killmessage reload
     permission: killmessage.reload
+  title:
+    description: Send title to player
+    usage: /title <player> <title|subtitle|actionbar|chat|all> <text>
+    permission: killmessage.title
